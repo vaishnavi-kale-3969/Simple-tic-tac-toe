@@ -2,7 +2,7 @@
 <div align='center'>
 <pre>
 <h1>Generator eagle<hr/></h1>
-<img src = "" width="200" height="200"/>
+<img src = "https://res.cloudinary.com/dqorldalg/image/upload/v1682205951/Google-cloud-logo_amifha.jpg" width="200" height="200"/>
 </pre>
 </div>
 <div>
