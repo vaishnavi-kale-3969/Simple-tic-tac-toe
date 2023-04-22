@@ -1,33 +1,46 @@
 
 <div align='center'>
 <pre>
-<h1>generator eagle<hr/></h1>
-<img src = "https://res.cloudinary.com/dqorldalg/image/upload/v1682199149/logo_1_komygw.png" width="200" height="200"/>
+<h1>Generator eagle<hr/></h1>
+<img src = "" width="200" height="200"/>
 </pre>
 </div>
 <div>
 <h2>Description<hr/></h2>
-<p><i>generates readme </i></p>
+<p><i>creating readme files</i></p>
 </div>
 <div>
 <h2>Salient Features<hr/></h2>
-<p><i>uses cloud for storage of logos</i></p>
+<p><i>uses cloud for storing logos</i></p>
 </div>
 <div>
 <p><h2>Tech stack of the project<hr/></h2></p>
 <p align="center">
 <a href="/">
-<img src="https://skillicons.dev/icons?i=au,bevy,blender,ableton,bootstrap" />
+<img src="https://skillicons.dev/icons?i=angular,autocad,ableton,apollo,appwrite" />
 </a>
 </p>
 </p>
 </div>
 <div>
 <p><h2>Installation Guide</h2><hr/></h2></p>
-<p>not required</p>
+<p>Not reqd</p>
 </div>
 <div>
 <p><h2>Usage<hr/></h2></p>
-<p>used for various projects</p>
+<p>- used for generating readmes</p>
 </div>
-used for various projects
+<div>
+<p><h2>Test Instructions<hr/></h2></p>
+<p>-</p>
+</div>
+<div>
+<p><h2>Contribution Guide<hr/></h2></p>
+<p>-</p>
+</div>
+<div>
+<p><h2>License<hr/></h2></p>
+<p>-</p>
+<p>Thanks for visiting the group</p>
+</div>
+- used for generating readmes
