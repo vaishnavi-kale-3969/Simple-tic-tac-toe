@@ -1,27 +1,29 @@
 
 <div align='center'>
-<h1>Demo</h1>
-<img src = "https://example.com/image.jpg"/>
+<pre>
+<h1>demo</h1>
+<img src = ""/>
+</pre>
 </div>
 <div>
 <h2>Description</h2>
-<p>xyz</p>
+<p>demo</p>
 </div>
 <div>
 <p>Tech stack of the project</p>
 <p align="center">
 <a href="/">
-<img src="https://skillicons.dev/icons?i=actix,django,ae,appwrite,astro,babel,atom" />
+<img src="https://skillicons.dev/icons?i=angular,c,fediverse,html" />
 </a>
 </p>
 </p>
 </div>
 <div>
 <p>Installation</p>
-<p>adfnot required</p>
+<p>no installation required</p>
 </div>
 <div>
 <p>Usage</p>
-<p>--</p>
+<p>usage</p>
 </div>
---
+usage
