@@ -1,20 +1,20 @@
 
 <div align='center'>
 <pre>
-<h1>akdfjdk</h1>
+<h1>akdfjdk<hr/></h1>
 <img src = ""/>
 </pre>
 </div>
 <div>
-<h2>Description</h2>
+<h2>Description<hr/></h2>
 <p><i>kdfjadklfadkfjkdfjk</i></p>
 </div>
 <div>
-<h2>Salient Features</h2>
+<h2>Salient Features<hr/></h2>
 <p><i>akdfja;dklfjdkfjdfhdjhf</i></p>
 </div>
 <div>
-<p>Tech stack of the project</p>
+<p>Tech stack of the project<hr/></p>
 <p align="center">
 <a href="/">
 <img src="https://skillicons.dev/icons?i=angular,ansible,apollo,forth,ableton,bots" />
@@ -23,11 +23,11 @@
 </p>
 </div>
 <div>
-<p>Installation Guide</p>
+<p><h2></h2>Installation Guide</h2><hr/></p>
 <p>adfd</p>
 </div>
 <div>
-<p>Usage</p>
+<p>Usage<hr/></p>
 <p>adf</p>
 </div>
 adf
