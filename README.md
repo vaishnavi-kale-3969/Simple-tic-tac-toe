@@ -11,14 +11,14 @@
 <p>Tech stack of the project</p>
 <p align="center">
 <a href="/">
-<img src="https://skillicons.dev/icons?i=ableton,actix" />
+<img src="https://skillicons.dev/icons?i=ableton,actix,django" />
 </a>
 </p>
 </p>
 </div>
 <div>
 <p>Installation</p>
-<p></p>
+<p>adf</p>
 </div>
 <div>
 <p>Usage</p>
