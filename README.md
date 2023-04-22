@@ -1,33 +1,33 @@
 
 <div align='center'>
 <pre>
-<h1>Generator Eagle<hr/></h1>
-<img src = "https://example.com/image.jpg"/>
+<h1>generator eagle<hr/></h1>
+<img src = "https://res.cloudinary.com/dqorldalg/image/upload/v1682199149/logo_1_komygw.png"/>
 </pre>
 </div>
 <div>
 <h2>Description<hr/></h2>
-<p><i>Generate readme for project repos and also public profile</i></p>
+<p><i>generates readme </i></p>
 </div>
 <div>
 <h2>Salient Features<hr/></h2>
-<p><i>features</i></p>
+<p><i>uses cloud for storage of logos</i></p>
 </div>
 <div>
 <p><h2>Tech stack of the project<hr/></h2></p>
 <p align="center">
 <a href="/">
-<img src="https://skillicons.dev/icons?i=ableton,au,autocad,cs,elixir" />
+<img src="https://skillicons.dev/icons?i=au,bevy,blender,ableton,bootstrap" />
 </a>
 </p>
 </p>
 </div>
 <div>
 <p><h2>Installation Guide</h2><hr/></h2></p>
-<p>no installation reqd</p>
+<p>not required</p>
 </div>
 <div>
 <p><h2>Usage<hr/></h2></p>
-<p>usage</p>
+<p>used for various projects</p>
 </div>
-usage
+used for various projects
