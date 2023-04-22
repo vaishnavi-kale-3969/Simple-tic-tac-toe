@@ -1,17 +1,17 @@
 
 <div align='center'>
-<h1>demo</h1>
-<img src = "https://example.com/image.jpg"/>
+<h1></h1>
+<img src = ""/>
 </div>
 <div>
 <h2>Description</h2>
-<p>adkf;sdlkfj</p>
+<p></p>
 </div>
 <div>
 <p>Tech stack of the project</p>
 <p align="center">
 <a href="/">
-<img src="https://skillicons.dev/icons?i=ableton,actix,aiscript,spring,rails" />
+<img src="https://skillicons.dev/icons?i=ableton,actix" />
 </a>
 </p>
 </p>
