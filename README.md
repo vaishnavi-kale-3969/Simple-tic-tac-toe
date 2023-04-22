@@ -2,7 +2,7 @@
 <div align='center'>
 <pre>
 <h1>generator eagle<hr/></h1>
-<img src = "https://res.cloudinary.com/dqorldalg/image/upload/v1682199149/logo_1_komygw.png"/>
+<img src = "https://res.cloudinary.com/dqorldalg/image/upload/v1682199149/logo_1_komygw.png" width="200" height="200"/>
 </pre>
 </div>
 <div>
