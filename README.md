@@ -59,12 +59,12 @@
     </p>
 </div>
 <div>
-![repo size](https://img.shields.io/github/repo-size/vaishnavikale3969/vaishnavikale3969?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
-![GitHub forks](https://img.shields.io/github/forks/vaishnavikale3969/vaishnavikale3969?&labelColor=black&color=0fb9b1&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/vaishnavikale3969/vaishnavikale3969?&labelColor=black&color=f7b731&style=for-the-badge)
-![GitHub LastCommit](https://img.shields.io/github/last-commit/vaishnavikale3969/vaishnavikale3969?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
+<img src = "https://img.shields.io/github/repo-size/vaishnavikale3969/vaishnavikale3969?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b"/>
+<img src = "https://img.shields.io/github/forks/vaishnavikale3969/vaishnavikale3969?&labelColor=black&color=0fb9b1&style=for-the-badge"/>
+<img src = "https://img.shields.io/github/stars/vaishnavikale3969/vaishnavikale3969?&labelColor=black&color=f7b731&style=for-the-badge"/>
+<img src = "https://img.shields.io/github/last-commit/vaishnavikale3969/vaishnavikale3969?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge"/>
  </div>
- <div>
+<div>
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=vaishnavikale3969&left_color=green&right_color=red)
 [![Github](https://img.shields.io/github/followers/vaishnavikale3969?label=Follow&style=social)](https://github.com/vaishnavikale3969)
 </div>
