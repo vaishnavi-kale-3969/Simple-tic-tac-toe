@@ -1,7 +1,7 @@
 
 <div align='center'>
 <pre>
-<h1><span class="wave">👋 Hey, I'm </span>adfd<hr/></h1>
+<h1><span class="wave">👋 Hey, I'm </span>adfaf<hr/></h1>
 <img src = "" width="200" height="200"/>
 </pre>
 </div>
@@ -18,17 +18,17 @@
 <div>
 <h1><img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc1NTAyOGU3MzE5YzZhNzVjYTlmZGQxMmY5MmU3MDg5MDhjZDliNyZjdD1z/SA0bQNKtlZOxOiKuV9/giphy.gif" width="60px" height="40px">About Me</h1>
 <h2>Description<hr/></h2>
-<p><i>adf</i></p>
+<p><i>adfadf</i></p>
 </div>
 <div>
 <h2>Work Experience<hr/></h2>
-<p><i>adf</i></p>
+<p><i>adfadsf</i></p>
 </div>
 <div>
 <p><h2>Tech stack of the project<hr/></h2></p>
 <p align="center">
 <a href="/">
-<img src="https://skillicons.dev/icons?i=d3,css,solidity" />
+<img src="https://skillicons.dev/icons?i=" />
 </a>
 </p>
 </p>
@@ -36,10 +36,10 @@
 <div align='center'>
 <h1><img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM5YmI1MTkzNzM2MzkwZTYwOGMwNGRlMzJkNDg0N2Y0NWUyN2UwOSZjdD1z/afn6ts3eRHxQ5pZtZ9/giphy.gif" width="60" height="60px">Connect with Me<h1>
 <p><a href="https://github.com/vaishnavi-3969"><img src="https://skillicons.dev/icons?i=github" style={{width:"20px", height:"20px"}} alt='github'/></a>
-<a href = "adfad"><img src="https://skillicons.dev/icons?i=twitter" style={{width:"20px", height:"20px"}} alt='github'/></a>
-<a href = "adfa"><img src="https://skillicons.dev/icons?i=linkedin" style={{width:"20px", height:"20px"}} alt='github'/></a>
-<h4>Discord Username: adf</h4>
-<h4>Email: *adfsdf*</h4>
+<a href = "dfadfa"><img src="https://skillicons.dev/icons?i=twitter" style={{width:"20px", height:"20px"}} alt='github'/></a>
+<a href = "ad"><img src="https://skillicons.dev/icons?i=linkedin" style={{width:"20px", height:"20px"}} alt='github'/></a>
+<h4>Discord Username: adfadf</h4>
+<h4>Email: *dfadf*</h4>
 </p>
 </div>
 <div>
@@ -58,9 +58,8 @@
       </a>
     </p>
 </div>
-<br/>
+<br/><br/>
 <div align="center">
-<pre>
 ![repo size](https://img.shields.io/github/repo-size/vaishnavi-3969/vaishnavi-3969?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
 ![GitHub forks](https://img.shields.io/github/forks/vaishnavi-3969/vaishnavi-3969?&labelColor=black&color=0fb9b1&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/vaishnavi-3969/vaishnavi-3969?&labelColor=black&color=f7b731&style=for-the-badge)
@@ -68,8 +67,6 @@
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=vaishnavi-3969&left_color=green&right_color=red)](https://github.com/vaishnavi-3969)
 [![Github](https://img.shields.io/github/followers/vaishnavi-3969?label=Follow&style=social)](https://github.com/vaishnavi-3969)
 </div>
-</pre>
-
 <br/>
 <p align ='center'>
 <h2> Thanks for visiting my profile. Have a nice day  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"></h2>
