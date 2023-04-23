@@ -64,9 +64,9 @@
 <img src = "https://img.shields.io/github/forks/vaishnavi-3969/vaishnavi-3969?&labelColor=black&color=0fb9b1&style=for-the-badge"/>
 <img src = "https://img.shields.io/github/stars/vaishnavi-3969/vaishnavi-3969?&labelColor=black&color=f7b731&style=for-the-badge"/>
 <img src = "https://img.shields.io/github/last-commit/vaishnavi-3969/vaishnavi-3969?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge"/>
- <br/><br/>
-<img src = "https://visitor-badge.glitch.me/badge?page_id=vaishnavi-3969&left_color=green&right_color=red"/>
-<br/>
+<img src = "https://img.shields.io/github/issues/vaishnavi-3969/vaishnavi-3969?&labelColor=black&color=eb3b5a&style=for-the-badge"/>
+<img src = "https://img.shields.io/github/license/vaishnavi-3969/vaishnavi-3969?&labelColor=black&color=0fb9b1&style=for-the-badge"/>
+
 <img src = "https://img.shields.io/github/followers/vaishnavi-3969?label=Follow&style=social"/>
 </div>
 <br/>
