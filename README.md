@@ -64,7 +64,6 @@
 ![GitHub forks](https://img.shields.io/github/forks/Kunal0220/Kunal0220?&labelColor=black&color=0fb9b1&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/Kunal0220/Kunal0220?&labelColor=black&color=f7b731&style=for-the-badge)
 ![GitHub LastCommit](https://img.shields.io/github/last-commit/Kunal0220/Kunal0220?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
- <br>
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Kunal0220&left_color=green&right_color=red)
 [![Github](https://img.shields.io/github/followers/Kunal0220?label=Follow&style=social)](https://github.com/Kunal0220)
 </div>
