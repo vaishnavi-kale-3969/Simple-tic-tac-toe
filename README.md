@@ -60,6 +60,7 @@
 </div>
 <br/>
 <div align="center">
+<pre>
 ![repo size](https://img.shields.io/github/repo-size/vaishnavi-3969/vaishnavi-3969?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
 ![GitHub forks](https://img.shields.io/github/forks/vaishnavi-3969/vaishnavi-3969?&labelColor=black&color=0fb9b1&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/vaishnavi-3969/vaishnavi-3969?&labelColor=black&color=f7b731&style=for-the-badge)
@@ -67,6 +68,8 @@
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=vaishnavi-3969&left_color=green&right_color=red)](https://github.com/vaishnavi-3969)
 [![Github](https://img.shields.io/github/followers/vaishnavi-3969?label=Follow&style=social)](https://github.com/vaishnavi-3969)
 </div>
+</pre>
+
 <br/>
 <p align ='center'>
 <h2> Thanks for visiting my profile. Have a nice day  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"></h2>
