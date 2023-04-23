@@ -59,7 +59,6 @@
     </p>
 </div>
 <div align="center">
-
 ![repo size](https://img.shields.io/github/repo-size/vaishnavikale3969/vaishnavikale3969?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
 ![GitHub forks](https://img.shields.io/github/forks/vaishnavikale3969/vaishnavikale3969?&labelColor=black&color=0fb9b1&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/vaishnavikale3969/vaishnavikale3969?&labelColor=black&color=f7b731&style=for-the-badge)
