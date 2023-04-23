@@ -59,13 +59,14 @@
     </p>
 </div>
 <br/><br/>
-<div>
+<div align='center'>
 <img src = "https://img.shields.io/github/repo-size/vaishnavi-3969/vaishnavi-3969?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b"/>
 <img src = "https://img.shields.io/github/forks/vaishnavi-3969/vaishnavi-3969?&labelColor=black&color=0fb9b1&style=for-the-badge"/>
 <img src = "https://img.shields.io/github/stars/vaishnavi-3969/vaishnavi-3969?&labelColor=black&color=f7b731&style=for-the-badge"/>
 <img src = "https://img.shields.io/github/last-commit/vaishnavi-3969/vaishnavi-3969?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge"/>
  <br/><br/>
 <img src = "https://visitor-badge.glitch.me/badge?page_id=vaishnavi-3969&left_color=green&right_color=red"/>
+<br/>
 <img src = "https://img.shields.io/github/followers/vaishnavi-3969?label=Follow&style=social"/>
 </div>
 <br/>
