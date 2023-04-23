@@ -33,22 +33,15 @@
 </p>
 </div>
 <div>
+<pre>
 <h1><img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM5YmI1MTkzNzM2MzkwZTYwOGMwNGRlMzJkNDg0N2Y0NWUyN2UwOSZjdD1z/afn6ts3eRHxQ5pZtZ9/giphy.gif" width="60" height="60px">Connect with Me<h1>
 <p><a href="https://github.com/vaishnavi-3969"><img src="https://skillicons.dev/icons?i=github" style={{width:"20px", height:"20px"}} alt='github'/></a></p>
-</div>
-<div>
 <p><a href = "adfad"><img src="https://skillicons.dev/icons?i=twitter" style={{width:"20px", height:"20px"}} alt='github'/></a></p>
-</div>
-<div>
 <p><a href = "adfa"><img src="https://skillicons.dev/icons?i=linkedin" style={{width:"20px", height:"20px"}} alt='github'/></a></p>
+<p>Discord Username: afd</p>
+<p>Email: adf</p>
+</pre>
 </div>
-<div>
-<>Discord Username: afd</p>
-</div>
-<div>
-<>Email: adf</p>
-</div>
-<div>
 <div>
 <p><h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">Stats</h1></p>
  <p align="center">
@@ -78,7 +71,6 @@
 <h2> Thanks for visiting my profile. Have a nice day  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"></h2>
  </p>
  <br/>
-<marquee><p align='center'>Thanks for visiting my profile!</p></marquee>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
