@@ -59,13 +59,13 @@
     </p>
 </div>
 <br/>
-<div align='center'>
+<div align="center">
+
 ![repo size](https://img.shields.io/github/repo-size/vaishnavi-3969/vaishnavi-3969?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
 ![GitHub forks](https://img.shields.io/github/forks/vaishnavi-3969/vaishnavi-3969?&labelColor=black&color=0fb9b1&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/vaishnavi-3969/vaishnavi-3969?&labelColor=black&color=f7b731&style=for-the-badge)
 ![GitHub LastCommit](https://img.shields.io/github/last-commit/vaishnavi-3969/vaishnavi-3969?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
-</div>
-<div align="center">
+<br/><br/>
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=vaishnavi-3969&left_color=green&right_color=red)](https://github.com/vaishnavi-3969)
 [![Github](https://img.shields.io/github/followers/vaishnavi-3969?label=Follow&style=social)](https://github.com/vaishnavi-3969)
 </div>
